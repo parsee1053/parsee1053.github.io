@@ -1,0 +1,19 @@
+h1 {
+  border-left: 10px solid green;
+  border-bottom: 5px solid green;
+  padding-left: 10px;
+  padding-bottom: 5px;
+}
+
+h2 {
+  border-left: 5px solid green;
+  padding-left: 5px;
+}
+
+.navbar {
+  background-color: green;
+}
+
+.jumbotron {
+  margin-top: 20px;
+}
